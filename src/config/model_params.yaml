@@ -1,0 +1,9 @@
+# Hiperparâmetros (exemplos)
+baseline:
+  model: "logistic_regression"
+  max_iter: 1000
+
+split:
+  train_start_year: 2003
+  train_end_year: 2023
+  test_year: 2024

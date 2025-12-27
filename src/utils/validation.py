@@ -1,0 +1,1 @@
+"""Split temporal e validação out-of-time."""

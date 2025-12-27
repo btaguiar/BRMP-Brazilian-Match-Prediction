@@ -1,0 +1,7 @@
+# Caminhos do projeto (Drive/Colab)
+project_root: "/content/drive/MyDrive/DataProjects/BRMP-Brazilian-Match-Prediction"
+data_raw: "data/raw"
+data_interim: "data/interim"
+data_processed: "data/processed"
+models_dir: "models"
+reports_dir: "reports"
