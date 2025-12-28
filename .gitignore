@@ -4,6 +4,15 @@
 data/raw/
 data/interim/
 data/processed/
+*.csv
+*.parquet
+
+# ======================
+# Modelos / artefatos
+# ======================
+models/
+*.pkl
+*.joblib
 
 # ======================
 # Ambientes / cache
@@ -23,3 +32,4 @@ __pycache__/
 # ======================
 .DS_Store
 Thumbs.db
+notebooks/01_eda_brasileirao_v0_rascunho.ipynb
